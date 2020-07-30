@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum4/map_yapisi.dart",
+            "program": "lib/bolum9/future_await_async.dart",
             "request": "launch",
             "type": "dart"
         }
